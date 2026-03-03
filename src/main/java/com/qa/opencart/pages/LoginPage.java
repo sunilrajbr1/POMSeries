@@ -23,8 +23,6 @@ public class LoginPage {
 
     private By registerLink = By.linkText("Register");
 
-    private By testLink = By.xpath("test for git push");
-
     //2. public page constructor
     public LoginPage(WebDriver driver){
         this.driver = driver;
