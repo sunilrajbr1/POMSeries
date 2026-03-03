@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 11.425 s <<< FAILURE! - in TestSuite
+loginPageURLTest(com.qa.opencart.tests.LoginPageTest)  Time elapsed: 5.264 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.qa.opencart.tests.LoginPageTest.loginPageURLTest(LoginPageTest.java:19)
+
