@@ -8,4 +8,8 @@ public class TestPage {
     public void p2(){
         System.out.println("Veena p2");
     }
+
+    public void p3(){
+    System.out.println("test p3");
+    }
 }
