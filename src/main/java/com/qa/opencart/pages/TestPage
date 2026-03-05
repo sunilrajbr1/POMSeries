@@ -7,5 +7,7 @@ public class TestPage {
 
     public void p2(){
         System.out.println("Veena p2");
+        double = 23.33;
     }
+    
 }
