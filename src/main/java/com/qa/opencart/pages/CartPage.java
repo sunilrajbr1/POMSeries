@@ -2,6 +2,6 @@ package com.qa.opencart.pages;
 
 public class CartPage {
     public void p1(){
-        System.out.println("Local - P1");
+        System.out.println("remote - P1");
     }
 }
